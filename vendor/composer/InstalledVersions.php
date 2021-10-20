@@ -14,24 +14,24 @@ class InstalledVersions
 private static $installed = array (
   'root' => 
   array (
-    'pretty_version' => 'dev-master',
-    'version' => 'dev-master',
+    'pretty_version' => 'dev-main',
+    'version' => 'dev-main',
     'aliases' => 
     array (
     ),
-    'reference' => 'd8a9b022d5d00d185af75e3883b4b536922451bd',
+    'reference' => 'e73503c1b924c75e53347c2775747c7e2648d8c4',
     'name' => '__root__',
   ),
   'versions' => 
   array (
     '__root__' => 
     array (
-      'pretty_version' => 'dev-master',
-      'version' => 'dev-master',
+      'pretty_version' => 'dev-main',
+      'version' => 'dev-main',
       'aliases' => 
       array (
       ),
-      'reference' => 'd8a9b022d5d00d185af75e3883b4b536922451bd',
+      'reference' => 'e73503c1b924c75e53347c2775747c7e2648d8c4',
     ),
     'composer/package-versions-deprecated' => 
     array (
@@ -654,6 +654,15 @@ private static $installed = array (
       array (
       ),
       'reference' => '3f5b6490878f8a70ba702e9692007cf979b42f0e',
+    ),
+    'symfony/apache-pack' => 
+    array (
+      'pretty_version' => 'v1.0.1',
+      'version' => '1.0.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '3aa5818d73ad2551281fc58a75afd9ca82622e6c',
     ),
     'symfony/asset' => 
     array (
